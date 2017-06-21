@@ -10,6 +10,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 // 주석을 작성해서 test 해보는 부분
 // 주석을 작성해서 test 해보는 부분 1
+// 주석을 작성해서 test 해보는 부분 2
 public class MemberDao {
 	private String url;//외부파일에 둘겂이다.
 	private String dbid;//외부파일에 둘겂이다.
